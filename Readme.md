@@ -1,4 +1,4 @@
-# [DONLEE_ROBOT](https://telegram.dog/Donlee_Robot)
+# JUST BOT
 
 <p align="center">
   <a href="https://github.com/PR0FESS0R-99/DonLee_Robot/stargazers">
@@ -29,7 +29,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 * Movie Text Mode (movie, Movie)
 
 --------
-##### Available DonLee Bots
+##### Available 
 
 <details><summary>Auto Filter Orginal</summary>
 <p>
@@ -106,17 +106,7 @@ OR
     * Status - Button will show the stats of your current group
 
 ------------------
-##### Main Pre Requisites
 
-* Your Bot Token From [@BotFather](https://youtu.be/cB4UduCcNWs)__
-
-* Your APP ID And API Harsh From [Telegram](https://youtu.be/5eEsvLAKVc0) or [@MT_MytelegramOrg_Bit](https://youtu.be/5eEsvLAKVc0)
-
-* Your User Session String Obtained From [Telegram Bot](https://youtu.be/WUN_12-dYOM)
-
-* Mongo DB URL Obtained From [Mongo DB](https://youtu.be/gBLTsH-IXr0)
-
-----
 ##### Support   
 Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
    
