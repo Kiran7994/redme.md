@@ -1,7 +1,6 @@
 # @harleyquinn099
 # Copyright permission under MIT License
-# All rights reserved by PR0FESS0R-99
-# License -> https://github.com/PR0FESS0R-99/DonLee_Robot/blob/main/LICENSE
+# All rights reserved by uniunioo
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
@@ -56,7 +55,7 @@ async def start(bot, update):
                         [
                             Mo_Tech_YT.MO_TECH_YT_02
                                 (
-                                    DEPLOY, url=HEROKU
+                                    hi, url=https:/t.me/unlimtedmovie00
                                 )
                         ]
                     ]
@@ -71,17 +70,17 @@ async def start(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              '📢Update Channel', url='t.me/Mo_Tech_YT'
+                              'grpup', url='t.me/filmgallery0999'
                           ),
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              '💡More Botz', url='t.me/MT_Botz'
+                              'Channel', url='https://t.me/unlimtedmovie00'
                           )
                   ],
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url=HEROKU
+                              Hi, url=https://t.me/unlimtedmovie00
                           )
                   ],
                   [
@@ -110,7 +109,7 @@ async def help(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              hi,heroku
+                              hi, url=https://t.me/unlimtedmovie00
                           )
                   ],
                   [   
@@ -143,7 +142,7 @@ async def about(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              'source', 
+                              'source', url=https://t.me/unlimtedmovie00
                           )
                   ],
                   [
