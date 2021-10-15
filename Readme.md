@@ -123,4 +123,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
  - [Thanks To AlbertEinsteinTG 👀](https://github.com/AlbertEinsteinTG)
- - [PR0FESS0R-99](https://github.com/PR0FESS0R-99), [Mo_Tech_Group](https://telegram.dog/Mo_Tech_Group), [MT_Botz](https://telegram.dog/MT_Botz)
+
